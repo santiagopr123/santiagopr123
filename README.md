@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hola, soy Santiago
 
-<!--
-**santiagopr123/santiagopr123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador enfocado en:
+- C++ nativo
+- OpenGL
+- Sistemas en tiempo real
+- Comunicación serial de alta velocidad
+- Django & APIs REST
+  
+---
+Actualmente trabajando en:
+- Osciloscopio en tiempo real con OpenGL
+- Backend con Django + VPS deployment
 
-Here are some ideas to get you started:
+---
+Stack principal
+- C++
+- Qt Framework
+- OpenGL
+- Python
+- Django
+- Java
+- SQL
+- Git
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+Objetivo
+Construir software eficiente, de bajo nivel y alto rendimiento.
+
+---
+Contacto
+- Email: santiago.pereira@udea.edu.co
+- Email: santiagodevh@gmail.com
+- Repositorio secundario: https://github.com/SanPRLUDev
+
+---
+
+⭐ Siempre aprendiendo. Siempre construyendo.
